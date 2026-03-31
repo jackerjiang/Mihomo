@@ -1,0 +1,38 @@
+# NAME: fakeip-filter.
+# UPDATED: 2026-03-31
+# TOTAL: 37
+payload:
+- DOMAIN-SUFFIX,lan
+- DOMAIN-SUFFIX,local
+- DOMAIN-SUFFIX,localhost
+- DOMAIN,doh.pub
+- DOMAIN,dns.alidns.com
+- DOMAIN,Mijia Cloud
+- DOMAIN,id6.me
+- DOMAIN,lens.l.google.com
+- DOMAIN-SUFFIX,localdomain
+- DOMAIN-SUFFIX,home.arpa
+- DOMAIN-SUFFIX,mDNS.local
+- DOMAIN-SUFFIX,digicert.com
+- DOMAIN-SUFFIX,entrust.com
+- DOMAIN-SUFFIX,cmpassport.com
+- DOMAIN-SUFFIX,p2p.local
+- DOMAIN-SUFFIX,jegotrip.com.cn
+- DOMAIN-SUFFIX,icitymobile.mobi
+- DOMAIN-SUFFIX,msftconnecttest.com
+- DOMAIN-SUFFIX,msftncsi.com
+- DOMAIN-SUFFIX,xboxlive.com
+- DOMAIN-SUFFIX,apple.com
+- DOMAIN-SUFFIX,icloud.com
+- DOMAIN-SUFFIX,mzstatic.com
+- DOMAIN-SUFFIX,apple-cloudkit.com
+- DOMAIN-SUFFIX,aaplimg.com
+- DOMAIN-SUFFIX,qq.com
+- DOMAIN-SUFFIX,weixin.com
+- DOMAIN-SUFFIX,crashlytics.com
+- DOMAIN-SUFFIX,xiaomi.com
+- DOMAIN-SUFFIX,ntp.org.cn
+- DOMAIN-SUFFIX,pool.ntp.org
+- DOMAIN-SUFFIX,time.edu.cn
+- DOMAIN-SUFFIX,xiami.com
+- DOMAIN-SUFFIX,amap.com
