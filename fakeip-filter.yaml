@@ -1,6 +1,6 @@
 # NAME: fakeip-filter
 # UPDATED: 2026-03-31
-# TOTAL: 33
+# TOTAL: 27
 payload:
 - DOMAIN-SUFFIX,lan
 - DOMAIN-SUFFIX,local
@@ -21,12 +21,6 @@ payload:
 - DOMAIN-SUFFIX,icitymobile.mobi
 - DOMAIN-SUFFIX,msftconnecttest.com
 - DOMAIN-SUFFIX,msftncsi.com
-- DOMAIN-SUFFIX,xboxlive.com
-- DOMAIN-SUFFIX,apple.com
-- DOMAIN-SUFFIX,icloud.com
-- DOMAIN-SUFFIX,mzstatic.com
-- DOMAIN-SUFFIX,apple-cloudkit.com
-- DOMAIN-SUFFIX,aaplimg.com
 - DOMAIN-SUFFIX,qq.com
 - DOMAIN-SUFFIX,weixin.com
 - DOMAIN-SUFFIX,crashlytics.com
