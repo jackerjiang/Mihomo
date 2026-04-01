@@ -8,6 +8,7 @@ payload:
 - DOMAIN,dns.alidns.com
 - DOMAIN,dns.google
 - DOMAIN,cloudflare-dns.com
+- DOMAIN,connectivitycheck.gstatic.com
 - DOMAIN,Mijia Cloud
 - DOMAIN,id6.me
 - DOMAIN-SUFFIX,lens.l.google.com
