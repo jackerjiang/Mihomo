@@ -30,3 +30,5 @@ payload:
 - DOMAIN-SUFFIX,time.edu.cn
 - DOMAIN-SUFFIX,xiami.com
 - DOMAIN-SUFFIX,amap.com
+- DOMAIN-KEYWORD,stun
+- DOMAIN-KEYWORD,ntp
