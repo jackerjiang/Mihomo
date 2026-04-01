@@ -1,6 +1,5 @@
 # NAME: fakeip-filter
 # UPDATED: 2026-03-31
-# TOTAL: 27
 payload:
 - DOMAIN-SUFFIX,lan
 - DOMAIN-SUFFIX,local
