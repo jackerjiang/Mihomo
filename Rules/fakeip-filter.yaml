@@ -8,7 +8,7 @@ payload:
 - DOMAIN,dns.alidns.com
 - DOMAIN,Mijia Cloud
 - DOMAIN,id6.me
-- DOMAIN,lens.l.google.com
+- DOMAIN-SUFFIX,lens.l.google.com
 - DOMAIN-SUFFIX,localdomain
 - DOMAIN-SUFFIX,home.arpa
 - DOMAIN-SUFFIX,mDNS.local
