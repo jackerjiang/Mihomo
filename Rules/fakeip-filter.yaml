@@ -6,9 +6,12 @@ payload:
 - DOMAIN-SUFFIX,localhost
 - DOMAIN,doh.pub
 - DOMAIN,dns.alidns.com
+- DOMAIN,dns.google
+- DOMAIN,cloudflare-dns.com
 - DOMAIN,Mijia Cloud
 - DOMAIN,id6.me
 - DOMAIN-SUFFIX,lens.l.google.com
+- DOMAIN-SUFFIX,mtalk.google.com
 - DOMAIN-SUFFIX,localdomain
 - DOMAIN-SUFFIX,home.arpa
 - DOMAIN-SUFFIX,mDNS.local
