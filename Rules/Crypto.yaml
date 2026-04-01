@@ -1,7 +1,5 @@
 # NAME: Crypto
 # UPDATED: 2026-03-24
-# DOMAIN-SUFFIX: 10
-# TOTAL: 10
 payload:
   - DOMAIN-SUFFIX,tokenlon.im
   - DOMAIN-SUFFIX,token.im
