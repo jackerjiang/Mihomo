@@ -4,6 +4,10 @@ payload:
 - DOMAIN-SUFFIX,lan
 - DOMAIN-SUFFIX,local
 - DOMAIN-SUFFIX,localhost
+- DOMAIN-SUFFIX,dns.alidns.com
+- DOMAIN-SUFFIX,doh.pub
+- DOMAIN-SUFFIX,dns.google
+- DOMAIN-SUFFIX,cloudflare-dns.com
 - DOMAIN,connectivitycheck.gstatic.com
 - DOMAIN,Mijia Cloud
 - DOMAIN,id6.me
