@@ -1,4 +1,5 @@
 # NAME: Adjust for Direct
 payload:
-  - DOMAIN,youyun53.xyz
   - DOMAIN,time.android.com
+  - DOMAIN,youyun53.xyz
+  - DOMAIN,youyun65.xyz
