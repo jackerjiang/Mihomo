@@ -5,4 +5,4 @@ payload:
   - DOMAIN,youyun65.xyz
   - DOMAIN,httpdns.bilivideo.com
   - DOMAIN,httpdns.g.mi.com
-
+  - DOMAIN-SUFFIX,hdslb.com
