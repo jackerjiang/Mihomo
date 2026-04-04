@@ -6,3 +6,4 @@ payload:
  - DOMAIN,device-provisioning.googleapis.com
  - DOMAIN,firebaseinstallations.googleapis.com
  - DOMAIN,firebaselogging.googleapis.com
+ - DOMAIN,content-autofill.googleapis.com:443
