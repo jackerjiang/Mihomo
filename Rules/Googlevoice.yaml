@@ -1,6 +1,5 @@
 # NAME: Goolgevoice
 payload:
-  - DOMAIN,voice.telephony.goog
   - DOMAIN,voice-pa.googleapis.com
   - DOMAIN,stun.l.google.com
   - DOMAIN,stun1.l.google.com
