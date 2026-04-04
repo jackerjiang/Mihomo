@@ -1,0 +1,7 @@
+# NAME: Adjust for Proxy
+payload:
+ - DOMAIN,android.apis.google.com,Google
+ - DOMAIN,connectivitycheck.gstatic.com,Google
+ - DOMAIN,device-provisioning.googleapis.com,Google
+ - DOMAIN,firebaseinstallations.googleapis.com,Google
+ - DOMAIN,firebaselogging.googleapis.com,Google
