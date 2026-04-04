@@ -1,7 +1,4 @@
 # NAME: Zoom
-# UPDATED: 2026-03-24
-# DOMAIN-SUFFIX: 2
-# TOTAL: 2
 payload:
   - DOMAIN-SUFFIX,onzoom.com
   - DOMAIN-SUFFIX,ZOOM.US
