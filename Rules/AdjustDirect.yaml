@@ -1,9 +1,0 @@
-# NAME: Adjust for Direct
-payload:
-  - DOMAIN,time.android.com
-  - DOMAIN,youyun53.xyz
-  - DOMAIN,youyun65.xyz
-  - DOMAIN,httpdns.bilivideo.com
-  - DOMAIN,httpdns.g.mi.com
-  - DOMAIN-SUFFIX,hdslb.com
-  - IP-CIDR,117.185.17.235/32,DIRECT,no-resolve
